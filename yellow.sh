@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'yellow' | sed 's/ow/ing/g'
+echo 'tie a yellow ribbon round the old oak tree'
